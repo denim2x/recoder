@@ -1,0 +1,29 @@
+{
+  "name": "recoder",
+  "version": "0.1.0-rc",
+  "description": "Various commands for rearranging source code",
+  "license": "MIT",
+  "author": {
+    "name": "denim2x",
+    "email": "denim2x@cyberdude.com",
+    "url": "http://denim2x.github.io"
+  },
+  "keywords": [
+    "sort",
+    "sorting",
+    "sorter",
+    "source code",
+    "code",
+    "polyglot",
+    "Atom",
+    "Atom package"
+  ],
+  "engines": {
+    "atom": ">=1.4.0 <2.0.0"
+  },
+  "repository": "https://github.com/denim2x/recoder",
+  "dependencies": {
+    "assortment": ">=0.1.0-beta",
+    "polysort": ">=0.1.0-rc"
+  }
+}
